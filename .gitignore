@@ -1,3 +1,11 @@
+# Learner-owned records and local working material.
+/local/
+# Keep former internal-document locations out of distribution.
+/docs/
+**/PRODUCT_REQUIREMENTS*.md
+learner-profile.json
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
